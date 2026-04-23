@@ -1,0 +1,3 @@
+# Dockerfile batch 21
+FROM python:3.11
+RUN echo "21"
